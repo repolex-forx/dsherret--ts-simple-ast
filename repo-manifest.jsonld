@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dsherret/ts-simple-ast/commit/f288183ddb496adc6f4c5b6929830b5b73437185",
       "git:hexsha": "f288183ddb496adc6f4c5b6929830b5b73437185",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/dsherret/ts-simple-ast/commit/eb2fc9e47459cfbfc433ffa8be4528a471670995",
